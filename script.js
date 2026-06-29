@@ -95,6 +95,7 @@ document.addEventListener('mousemove', (e) => {
 document.querySelectorAll('a, button, .project-card, .btn').forEach(item => {
     item.addEventListener('mouseover', () => cursor?.classList.add('cursor-hover'));
     item.addEventListener('mouseleave', () => cursor?.classList.remove('cursor-hover'));
+}
 // --- 1. DYNAMIC TYPING ANIMATION ---
 const words = ["Front-End Development.", "Creative Multimedia Design.", "Professional Photography."];
 let wordIndex = 0;
