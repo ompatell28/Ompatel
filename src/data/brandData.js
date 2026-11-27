@@ -1,4 +1,4 @@
-import skyBrand from '../assets/sky-brand.jpg';
+﻿import skyBrand from '../assets/sky-brand.jpg';
 import skyBuild from '../assets/sky-build.jpg';
 import stereoCover from '../assets/projects/proj-5.jpg';
 
@@ -7,57 +7,57 @@ import kadanaDamImg from '../assets/stereoscopia/kadana-dam.jpg';
 
 import wild1 from '../assets/stereoscopia/wild-1.jpeg';
 import wild2 from '../assets/stereoscopia/wild-2.jpeg';
-import wild3 from '../assets/stereoscopia/wild-3.png';
+import wild3 from '../assets/stereoscopia/wild-3.PNG';
 import wild4 from '../assets/stereoscopia/wild-4.jpeg';
 
 import starBg from '../assets/stereoscopia/star-bg.jpeg';
 import boxBg from '../assets/stereoscopia/box-bg.jpeg';
-import q1 from '../assets/stereoscopia/q-1.png';
-import q2 from '../assets/stereoscopia/q-2.png';
-import q3 from '../assets/stereoscopia/q-3.png';
-import q4 from '../assets/stereoscopia/q-4.png';
+import q1 from '../assets/stereoscopia/q-1.PNG';
+import q2 from '../assets/stereoscopia/q-2.PNG';
+import q3 from '../assets/stereoscopia/q-3.PNG';
+import q4 from '../assets/stereoscopia/q-4.PNG';
 
 // Heritage Background
 import heritageBgImg from '../assets/stereoscopia/heritage-bg.jpg';
 
-import adalajMain from '../assets/stereoscopia/adalaj-main.jpg';
-import adalaj1 from '../assets/stereoscopia/adalaj-1.jpg';
-import adalaj2 from '../assets/stereoscopia/adalaj-2.jpg';
-import adalaj3 from '../assets/stereoscopia/adalaj-3.jpg';
-import adalaj4 from '../assets/stereoscopia/adalaj-4.jpg';
-import adalaj5 from '../assets/stereoscopia/adalaj-5.jpg';
-import adalaj6 from '../assets/stereoscopia/adalaj-6.jpg';
-import adalaj7 from '../assets/stereoscopia/adalaj-7.jpg';
-import adalaj8 from '../assets/stereoscopia/adalaj-8.jpg';
-import adalaj9 from '../assets/stereoscopia/adalaj-9.jpg';
-import adalaj10 from '../assets/stereoscopia/adalaj-10.jpg';
+import adalajMain from '../assets/stereoscopia/adalaj-main.JPG';
+import adalaj1 from '../assets/stereoscopia/adalaj-1.JPG';
+import adalaj2 from '../assets/stereoscopia/adalaj-2.JPG';
+import adalaj3 from '../assets/stereoscopia/adalaj-3.JPG';
+import adalaj4 from '../assets/stereoscopia/adalaj-4.JPG';
+import adalaj5 from '../assets/stereoscopia/adalaj-5.JPG';
+import adalaj6 from '../assets/stereoscopia/adalaj-6.JPG';
+import adalaj7 from '../assets/stereoscopia/adalaj-7.JPG';
+import adalaj8 from '../assets/stereoscopia/adalaj-8.JPG';
+import adalaj9 from '../assets/stereoscopia/adalaj-9.JPG';
+import adalaj10 from '../assets/stereoscopia/adalaj-10.JPG';
 
-import suryaMain from '../assets/stereoscopia/surya-main.jpg';
-import surya1 from '../assets/stereoscopia/surya-1.jpg';
-import surya2 from '../assets/stereoscopia/surya-2.jpg';
-import surya3 from '../assets/stereoscopia/surya-3.jpg';
-import surya4 from '../assets/stereoscopia/surya-4.jpg';
-import surya5 from '../assets/stereoscopia/surya-5.jpg';
-import surya6 from '../assets/stereoscopia/surya-6.jpg';
-import surya7 from '../assets/stereoscopia/surya-7.jpg';
+import suryaMain from '../assets/stereoscopia/surya-main.JPG';
+import surya1 from '../assets/stereoscopia/surya-1.JPG';
+import surya2 from '../assets/stereoscopia/surya-2.JPG';
+import surya3 from '../assets/stereoscopia/surya-3.JPG';
+import surya4 from '../assets/stereoscopia/surya-4.JPG';
+import surya5 from '../assets/stereoscopia/surya-5.JPG';
+import surya6 from '../assets/stereoscopia/surya-6.JPG';
+import surya7 from '../assets/stereoscopia/surya-7.JPG';
 
-import jamaMain from '../assets/stereoscopia/jama-main.jpg';
-import jama1 from '../assets/stereoscopia/jama-1.jpg';
-import jama2 from '../assets/stereoscopia/jama-2.jpg';
-import jama3 from '../assets/stereoscopia/jama-3.jpg';
-import jama4 from '../assets/stereoscopia/jama-4.jpg';
-import jama5 from '../assets/stereoscopia/jama-5.jpg';
+import jamaMain from '../assets/stereoscopia/jama-main.JPG';
+import jama1 from '../assets/stereoscopia/jama-1.JPG';
+import jama2 from '../assets/stereoscopia/jama-2.JPG';
+import jama3 from '../assets/stereoscopia/jama-3.JPG';
+import jama4 from '../assets/stereoscopia/jama-4.JPG';
+import jama5 from '../assets/stereoscopia/jama-5.JPG';
 
 // Pol Video & Floating Border Photos
 import polVideo from '../assets/stereoscopia/pol-video.mp4';
 import pol1 from '../assets/stereoscopia/pol-1.jpeg';
 import pol2 from '../assets/stereoscopia/pol-2.png';
 import pol3 from '../assets/stereoscopia/pol-3.jpg';
-import pol4 from '../assets/stereoscopia/pol-4.jpg';
-import pol5 from '../assets/stereoscopia/pol-5.jpg';
-import pol6 from '../assets/stereoscopia/pol-6.jpg';
+import pol4 from '../assets/stereoscopia/pol-4.JPG';
+import pol5 from '../assets/stereoscopia/pol-5.JPG';
+import pol6 from '../assets/stereoscopia/pol-6.JPG';
 
-// Gallery Wall Photos (1 to 28 — .png)
+// Gallery Wall Photos (1 to 28 â€” .png)
 import wall1 from '../assets/stereoscopia/wall-1.png';
 import wall2 from '../assets/stereoscopia/wall-2.png';
 import wall3 from '../assets/stereoscopia/wall-3.png';
@@ -83,9 +83,9 @@ import wall22 from '../assets/stereoscopia/wall-22.png';
 import wall23 from '../assets/stereoscopia/wall-23.png';
 import wall24 from '../assets/stereoscopia/wall-24.png';
 import wall25 from '../assets/stereoscopia/wall-25.png';
-import wall26 from '../assets/stereoscopia/wall-26.png';
-import wall27 from '../assets/stereoscopia/wall-27.png';
-import wall28 from '../assets/stereoscopia/wall-28.png';
+import wall26 from '../assets/stereoscopia/wall-26.PNG';
+import wall27 from '../assets/stereoscopia/wall-27.PNG';
+import wall28 from '../assets/stereoscopia/wall-28.PNG';
 
 export const stereoHero = {
   titleTop: 'Stereoscopia',
@@ -108,7 +108,7 @@ export const artistBio = {
   headingBold: "Hello, I'm Om.",
   headingOutline: 'I follow the light.',
   paragraphs: [
-    'Stereoscopia is my visual journal and photography space — dedicated to heritage architecture, wildlife, and stories told through natural light.',
+    'Stereoscopia is my visual journal and photography space â€” dedicated to heritage architecture, wildlife, and stories told through natural light.',
     'From ancient stepwells in Gujarat to quiet moments in nature, every frame is an invitation to pause and notice what stays with you.',
   ],
   ctaLabel: "Let's make something meaningful",
@@ -129,7 +129,7 @@ export const fourColumnSeries = {
 };
 
 export const stereoQuote = {
-  eyebrow: 'STEREOSCOPIA · PERSPECTIVE',
+  eyebrow: 'STEREOSCOPIA Â· PERSPECTIVE',
   text: 'The two most engaging powers of a photograph are to make new things familiar and familiar things new.',
   starBg,
   boxBg,
@@ -142,7 +142,7 @@ export const stereoQuote = {
 };
 
 export const heritageSectionMeta = {
-  eyebrow: 'GUJARAT ARCHIVE · FIELD NOTES',
+  eyebrow: 'GUJARAT ARCHIVE Â· FIELD NOTES',
   heading: 'Heritage Sites',
   bgImage: heritageBgImg,
 };
@@ -152,7 +152,7 @@ export const heritageChapters = [
     id: 'adalaj',
     number: '01',
     title: 'Adalaj ni Vav',
-    subtitle: 'Rudabai Stepwell · Built 1498 · Gandhinagar, Gujarat',
+    subtitle: 'Rudabai Stepwell Â· Built 1498 Â· Gandhinagar, Gujarat',
     mainImage: adalajMain,
     points: [
       'Built in 1498 in memory of Rana Veer Singh of the Vaghela dynasty.',
@@ -177,10 +177,10 @@ export const heritageChapters = [
     id: 'surya-mandir',
     number: '02',
     title: 'Surya Mandir',
-    subtitle: 'Modhera Sun Temple · Built 1026 AD · Mehsana, Gujarat',
+    subtitle: 'Modhera Sun Temple Â· Built 1026 AD Â· Mehsana, Gujarat',
     mainImage: suryaMain,
     points: [
-      'Commissioned in 1026–27 AD during the reign of Bhima I of the Chaulukya dynasty.',
+      'Commissioned in 1026â€“27 AD during the reign of Bhima I of the Chaulukya dynasty.',
       'Aligned eastwards so the first rays of the equinox sun illuminate the sanctum.',
       'Framed by the stepped Surya Kund with 108 miniature shrines carved in sandstone.',
     ],
@@ -191,7 +191,7 @@ export const heritageChapters = [
     id: 'jama-masjid',
     number: '03',
     title: 'Jama Masjid',
-    subtitle: 'Old Walled City · Built 1424 · Ahmedabad, Gujarat',
+    subtitle: 'Old Walled City Â· Built 1424 Â· Ahmedabad, Gujarat',
     mainImage: jamaMain,
     points: [
       'Built in 1424 by Sultan Ahmed Shah I using warm yellow sandstone.',
@@ -204,13 +204,13 @@ export const heritageChapters = [
 ];
 
 export const polShowcase = {
-  eyebrow: '04 · OLD CITY CHRONICLES',
+  eyebrow: '04 Â· OLD CITY CHRONICLES',
   title: 'Ahmedabad ni Pol',
   video: polVideo,
   floatingPhotos: [pol1, pol2, pol3, pol4, pol5, pol6],
 };
 
-// Shuffled 28 Wall Frames (moon 1–10 mixed evenly across all 4 rows)
+// Shuffled 28 Wall Frames (moon 1â€“10 mixed evenly across all 4 rows)
 export const instaWall = {
   eyebrow: 'MORE FRAMES & STORIES',
   heading: 'For more, follow',
